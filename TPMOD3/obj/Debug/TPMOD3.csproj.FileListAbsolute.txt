@@ -1,0 +1,10 @@
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\bin\Debug\TPMOD3.exe.config
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\bin\Debug\TPMOD3.exe
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\bin\Debug\TPMOD3.pdb
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.csproj.AssemblyReference.cache
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.Form1.resources
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.Properties.Resources.resources
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.csproj.GenerateResource.cache
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.csproj.CoreCompileInputs.cache
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.exe
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\TPMOD3\obj\Debug\TPMOD3.pdb
